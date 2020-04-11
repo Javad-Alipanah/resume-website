@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name":"Javad Alipanah",
+    "occupation":"Software Engineer",
+    "description":"If you are searching for a potential software engineer, contact me",
+    "image":"profilepic.jpg",
+    "bio":"I am a graduate student in Computer Engineering. I love engineering and pursue being an excellent software engineer, which I think I'm not by now. I also like reading, socializing, and knowledge sharing. Feel free to contact me if you think we have common grounds to talk about!",
+    "contactmessage":"Wanna talk to me? Then feel free to fill in the form!",
+    "email": "javadalipanah@gmail.com",
+    "phone": "+989902812865",
+    "address":{
+      "street":"1st Bimeh",
+      "city":"Tehran",
+      "state":"Tehran",
+      "zip": "1391943953"
+    },
+    "website": "#",
+    "resumedownload":"https://jobinja.ir/user/SH-7695135/download",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/javad-alipanah",
+        "className":"fab fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/Javad-Alipanah",
+        "className":"fab fa-github"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/Javad_AP",
+        "className":"fab fa-twitter"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/f2DQ9DuZ7HPw",
+        "className":"fab fa-skype"
+      },
+      {
+        "name":"telegram",
+        "url":"https://t.me/JavadAlipanah",
+        "className":"fab fa-telegram"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/javad.alipanah",
+        "className":"fab fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can see a brief estimation of my skills; for more info please read the resume",
+    "education":[
+      {
+        "school":"Sharif University of Technology",
+        "degree":"Master's in Computer Security",
+        "graduated":"Undergoing",
+        "description":"In Computer Security (in persian: رایانش امن) we study different aspects of computer and network security. My thesis title is \"Active Trust Routing in MANETs\""
+      },
+      {
+        "school":"University of Tehran",
+        "degree":"Bachelor's in Computer Engineering",
+        "graduated":"September 2014",
+        "description":"I have graduated with a GPA of 16.40. My Bachelor's project title was \"Enhancing Android Security on x86 Platform\""
+      }
+    ],
+    "work":[
+      {
+        "company":"ArvanCloud",
+        "title":"Security Developer",
+        "years":"September 2018 - January 2020",
+        "description":"I was a member of the \"Cloud Security\" team; My works at Arvan as a developer includes the development of an eBPF/XDP based firewall and participation in Cloud Security API development using Golang."
+      },
+      {
+        "company":"ViraTech Sharif",
+        "title":"Internship",
+        "years":"March 2017 - September 2017",
+        "description":"As an intern, I learned about object-oriented design patterns, java, spring framework, hibernate, etc."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"85%"
+      },
+      {
+        "name":"Golang",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"75%"
+      },
+      {
+        "name":"CI/CD",
+        "level":"70%"
+      },
+      {
+        "name":"C",
+        "level":"70%"
+      },
+      {
+        "name":"Probability and Statistics",
+        "level":"65%"
+      },
+      {
+        "name":"XDP/eBPF",
+        "level":"60%"
+      },
+      {
+        "name":"Redis",
+        "level":"60%"
+      },
+      {
+        "name":"Bash Scripting",
+        "level":"60%"
+      },
+      {
+        "name":"Docker",
+        "level":"55%"
+      },
+      {
+        "name":"SaltStack",
+        "level":"50%"
+      },
+      {
+        "name":"Django",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Loading...",
+        "category":"I will place my works here soon...",
+        "image":"loading.gif",
+        "url":"#"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Javad is a true free spirit traveling the technology world with a good knowledge of programming and statistics. He is an excellent team member and works in coordination with the rest of the team. Javad always comes up with an idea to make the team more efficient. He is very careful and cautious about his work.",
+        "user":"Navid Fathollahzade"
+      }
+    ]
+  }
+}
